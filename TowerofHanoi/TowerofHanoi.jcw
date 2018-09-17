@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>TowerofHanoi</label>
+		<id>0</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>TowerofHanoi.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>TowerofHanoi.jcp</path>
+		</project>
+	</projects>
+</workspace>
